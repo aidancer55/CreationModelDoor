@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreationModelDoor", "CreationModelDoor\CreationModelDoor.csproj", "{D27E3140-F36F-4EF7-B721-318B29EA7BF9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D27E3140-F36F-4EF7-B721-318B29EA7BF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D27E3140-F36F-4EF7-B721-318B29EA7BF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D27E3140-F36F-4EF7-B721-318B29EA7BF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D27E3140-F36F-4EF7-B721-318B29EA7BF9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {02C7423A-5462-4CD4-A2CD-214DBF805D0A}
+	EndGlobalSection
+EndGlobal
